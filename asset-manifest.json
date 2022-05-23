@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactOne/static/css/main.22941023.css",
+    "main.js": "/ReactOne/static/js/main.42636214.js",
+    "index.html": "/ReactOne/index.html",
+    "main.22941023.css.map": "/ReactOne/static/css/main.22941023.css.map",
+    "main.42636214.js.map": "/ReactOne/static/js/main.42636214.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.42636214.js"
+  ]
+}
