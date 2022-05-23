@@ -1,4 +1,4 @@
-# ReactOne
+# React Tic Tac Toe
 first react app. Tic Tac Toe
 
 <div id="header" align="center">
